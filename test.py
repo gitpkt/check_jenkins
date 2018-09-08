@@ -1,4 +1,4 @@
-def x(s)
+def x(s):
     print(s)
 
 
